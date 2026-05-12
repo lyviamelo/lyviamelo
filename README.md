@@ -2,9 +2,9 @@
 
 **`Desenvolvedora Júnior`**
 
-Me chamo Lyvia Melo, tenho 18 anos e sou de São Paulo. Concluí o ensino médio e atualmente estou finalizando o curso técnico em Desenvolvimento de Sistemas pela ETEC.
+Me chamo Lyvia Melo, tenho 18 anos e sou de São Paulo. Concluí o ensino médio e atualmente estou finalizando o curso técnico em Desenvolvimento de Sistemas pela ETEC, e cursando Bacharelado em Engenharia da Computação pelo IFSP.
 Tenho interesse pela área de tecnologia e estou em constante aprendizado, buscando evoluir minhas habilidades em programação e desenvolvimento de sistemas. Também tenho interesse em criatividade digital e produção de conteúdo, explorando ferramentas e tendências do ambiente online.
-Estou em busca da minha primeira oportunidade profissional, onde possa aplicar meus conhecimentos, aprender na prática e crescer na área de tecnologia.
+Estou em busca de aprender na prática e crescer na área de tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
